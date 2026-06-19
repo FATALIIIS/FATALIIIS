@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![Estatísticas do GitHub](https://vercel.app)
 <!--
 **FATALIIIS/FATALIIIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
