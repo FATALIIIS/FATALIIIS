@@ -1,8 +1,10 @@
 ## Hi there 👋 My name is John
+
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/FATALIIIS/count.svg" alt="Visitor's Count" />
-</div>
+</div> 
+
 ## 🛠️ Languages
 
 <br>
