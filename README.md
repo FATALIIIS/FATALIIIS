@@ -16,14 +16,6 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=FATALIIIS&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="FATALIIIS GitHub Stats" />
 </div>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
-## 📫 Contact
-<br>
-<div align=left>
-<p>Email: jp123.pedrofarias@hgmail.com</p>
-</div>
-
 
 <!--
 **FATALIIIS/FATALIIIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
