@@ -5,14 +5,14 @@
 <br>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,java" />
 </p>
 
 ## ⚡️Github Stats
 
 <br>
 <div align=left>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=FATALIIIS&theme=ambient_gradient&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="FATALIIIS GitHub Stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=FATALIIIS&theme=codeSTACKr&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="FATALIIIS GitHub Stats" />
 </div>
 
 
