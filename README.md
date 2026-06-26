@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is John
 
 ## 🛠️ Languages
 
@@ -16,7 +16,11 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=FATALIIIS&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="FATALIIIS GitHub Stats" />
 </div>
 
-<hr>
+## 📫 Contact
+<br>
+<div align=left>
+<p>Email: jp123.pedrofarias@hgmail.com</p>
+</div>
 
 
 <!--
