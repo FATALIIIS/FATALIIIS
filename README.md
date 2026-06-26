@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p>🧑‍💻 About Me</p>
-<p>💻 I’m currently an intern at Teraware Soluções em Software e Internet, where I develop ERP systems using PHP.</p>
+<h1>💻 I’m currently an intern at Teraware Soluções em Software e Internet, where I develop ERP systems using PHP.</h1>
 🎓 Studying Systems Analysis and Development at Senac.
 🌱 Currently learning: HTML, CSS, JavaScript, and PHP to improve my front-end and back-end skills.
 
