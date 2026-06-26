@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is John
 
-## 🛠️ Languages
+## 🛠️Languages
 
 <br>
 
@@ -8,7 +8,7 @@
   <img src="https://skillicons.dev/icons?i=java,html,css,php,mysql" />
 </p>
 
-## ⚡️ Github Stats
+## ⚡️Github Stats
 
 <br>
 
