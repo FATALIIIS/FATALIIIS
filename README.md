@@ -12,7 +12,7 @@
 
 <br>
 <div align=left>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=FATALIIIS&theme=codeSTACKr&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="FATALIIIS GitHub Stats" />
+  <img width=300 src="https://github-readme-stats.vercel.app/api?username=FATALIIIS&theme=codeSTACKr&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="FATALIIIS GitHub Stats" />
 </div>
 
 
