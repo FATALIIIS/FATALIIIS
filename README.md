@@ -5,7 +5,7 @@
 <br>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,php" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,php,mysql" />
 </p>
 
 ## ⚡️ Github Stats
