@@ -8,7 +8,7 @@
   <img src="https://skillicons.dev/icons?i=java,html,css,php" />
 </p>
 
-⚡️ Stats
+## ⚡️ Stats
 
 <br>
 
