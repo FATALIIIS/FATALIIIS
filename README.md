@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,php,sql" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,php" />
 </p>
 
 <hr>
