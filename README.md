@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is John
 
-## 🛠️Languages
+## 🛠️ Languages
 
 <br>
 
