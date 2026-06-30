@@ -13,7 +13,7 @@
 <br>
 <img
   width="400"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=FATALIIIS&show_icons=true&theme=merko"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=FATALIIIS&show_icons=true&theme=gruvbox"
 />
 
 
