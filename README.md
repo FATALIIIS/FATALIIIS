@@ -17,7 +17,7 @@
 />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/FATALIIIS?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/FATALIIIS">
+  <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/FATALIIIS">
 </picture>
 
 
