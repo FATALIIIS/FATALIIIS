@@ -11,13 +11,15 @@
 ## ⚡️ Github Stats
 
 <br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/FATALIIIS?theme=dark">
-  <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/FATALIIIS">
-</picture><img
+<img
   width="400"
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=FATALIIIS&show_icons=true&theme=onedark"
 />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/FATALIIIS?theme=dark">
+  <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/FATALIIIS">
+</picture>
 
 <!--
 **FATALIIIS/FATALIIIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
