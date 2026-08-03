@@ -1,5 +1,6 @@
 ## Hi there 👋 My name is John
-Estou atualmente aprendendo desenvolvimento Full Stack para aprimorar meus conhecimentos e meu repertório, abaixo você encontrará as linguagens e ferramentas que eu utilizo, bem como meus repositórios com projetos feitos em sala de aula e também projetos pessoais que ainda estão em desenvolvimento. 
+## About me
+Atualmente estou aprendendo desenvolvimento Full Stack para aprimorar meus conhecimentos e meu repertório, abaixo você encontrará as linguagens e ferramentas que eu utilizo, bem como meus repositórios com projetos feitos em sala de aula e também projetos pessoais que ainda estão em desenvolvimento. 
 
 ## 🛠️ Languages and Tools
 
