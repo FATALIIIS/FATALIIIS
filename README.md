@@ -1,4 +1,5 @@
 ## Hi there 👋 My name is John
+Hello, in actually learning full stack development to improve my self skills.
 
 ## 🛠️ Languages and Tools
 
