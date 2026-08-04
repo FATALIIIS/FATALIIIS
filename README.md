@@ -18,7 +18,7 @@ Atualmente estou aprendendo desenvolvimento Full Stack para aprimorar meus conhe
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=FATALIIIS&show_icons=true&theme=onedark"
 />
 
-## 📊 Languages Graph
+<!--## 📊 Languages Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/FATALIIIS?theme=dark">
