@@ -7,7 +7,7 @@ Atualmente estou aprendendo desenvolvimento Full Stack para aprimorar meus conhe
 <br>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,java,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,java,github,javascript" />
 </p>
 
 ## ⚡️ Github Stats
