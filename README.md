@@ -17,6 +17,11 @@ Atualmente estou aprendendo desenvolvimento Full Stack para aprimorar meus conhe
   width="400"
   src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FATALIIIS)](https://github.com/FATALIIIS/github-readme-stats)"
 />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=FATALIIIS&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
 
 <!--## 📊 Languages Graph
 
