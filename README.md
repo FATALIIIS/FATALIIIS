@@ -15,7 +15,7 @@ Atualmente estou aprendendo desenvolvimento Full Stack para aprimorar meus conhe
 <br>
 <img
   width="400"
-  src="https://github-readme-stats.vercel.app/api?FATALIIIS=anuraghazra&show_icons=true&theme=radical"
+  src="https://github-readme-stats.vercel.app/api?FATALIIIS=pt-br&show_icons=true&theme=radical"
 />
 
 <!--## 📊 Languages Graph
