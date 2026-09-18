@@ -15,7 +15,7 @@ Atualmente estou aprendendo desenvolvimento Full Stack para aprimorar meus conhe
 <br>
 <img
   width="400"
-  src="https://github-readme-stats.vercel.app/api?username=FATALIIIS"
+  src="https://github-readme-stats.vercel.app/api?username=FATALIIIS&show_icons=true&theme=radicalS"
 />
 
 <!--## 📊 Languages Graph
