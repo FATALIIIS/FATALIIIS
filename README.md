@@ -15,7 +15,7 @@ Atualmente estou aprendendo desenvolvimento Full Stack para aprimorar meus conhe
 <br>
 <img
   width="400"
-  src="https://streak-stats.demolab.com/?user=FATALIIIS&theme=dark"
+  src="https://streak-stats.demolab.com/?user=FATALIIIS&theme=rust-ferris-dark"
 />
 
 <!--## 📊 Languages Graph
