@@ -11,7 +11,6 @@ Atualmente estou aprendendo desenvolvimento Full Stack para aprimorar meus conhe
 </p>
 
 ## ⚡️ Github Stats
-
 <br>
 <img
   width="400"
