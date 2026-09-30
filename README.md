@@ -5,7 +5,6 @@ Atualmente estou aprendendo desenvolvimento Full Stack para aprimorar meus conhe
 ## 🛠️ Languages and Tools
 
 <br>
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,postgres,java,sublime,eclipse,spring,github" />
 </p>
